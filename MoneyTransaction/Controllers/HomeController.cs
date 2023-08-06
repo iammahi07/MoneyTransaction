@@ -12,7 +12,7 @@ namespace MoneyTransaction.Controllers
         {
             _logger = logger;
         }
-        //modified
+        //changes
         public IActionResult Index()
         {
             return View();
